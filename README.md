@@ -7,4 +7,5 @@ Please keep in mind this is more for my own consistency of data processing over 
 
 NOTE: This script was used to process data for 
 Trivedi, Christopher B., et al. "Low-temperature sulfidic-ice microbial communities, Borup Fiord Pass, Canadian high Arctic." Frontiers in microbiology 9 (2018). https://doi.org/10.3389/fmicb.2018.01622
+
 [![DOI](https://zenodo.org/badge/126745484.svg)](https://zenodo.org/badge/latestdoi/126745484)
